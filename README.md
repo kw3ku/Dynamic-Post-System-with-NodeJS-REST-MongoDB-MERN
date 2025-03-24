@@ -8,9 +8,9 @@ A full-featured social posting platform with real-time interactions, built with 
 
 
 ## Screenshots
-<img src="scrnshots/scn02.png" width="600">
-<img src="scrnshots/scn03.png" width="600">
 <img src="scrnshots/scn05.png" width="600">
+<img src="scrnshots/scn04.png" width="600">
+<img src="scrnshots/scn01.png" width="600">
 
 ## ✨ Key Features
 
