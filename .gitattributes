@@ -1,0 +1,21 @@
+# Set default behavior for line endings
+* text=auto
+
+# Normalize line endings for specific file types
+*.js text eol=lf
+*.jsx text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.css text eol=lf
+*.scss text eol=lf
+*.html text eol=lf
+*.yml text eol=lf
+*.lock text eol=lf
+
+# Handle binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.svg binary
+*.pdf binary
